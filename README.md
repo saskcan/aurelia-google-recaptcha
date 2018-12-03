@@ -6,7 +6,7 @@ Plugin is inspired by [Jeremy Danyow](http://stackoverflow.com/users/725866/jere
 
 ### Install
 ```bash
-jspm install google-recaptcha=github:itmcdev/aurelia-google-recaptcha@master
+jspm install google-recaptcha=github:saskcan/aurelia-google-recaptcha@master
 ```
 
 ### Bootstrap
